@@ -27,7 +27,7 @@
 
 ## 项目截图
 
-![](G:\博客前台.png)
+![](https://github.com/lckjcnWq/ScreenShot/blob/master/pc_vue.png)
 
 ## License
 
