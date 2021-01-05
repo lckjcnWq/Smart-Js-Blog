@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "arios": "^1.0.6",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "el-search-table-pagination": "^0.4.31",
     "element-ui": "^2.13.0",
     "vue": "^2.5.2",
